@@ -1,4 +1,6 @@
-# homework-15
+# Made by Warsurge 
+
+# homework-15 <img src= "https://img.shields.io/static/v1?label=MadeWithLove&message=HardWork&color=red" alt="badge" style="border-radius:50px" width ="150px"/>
 Progressive budget
 
 ## User Story
@@ -15,3 +17,10 @@ Giving users a fast and easy way to track their money is important, but allowing
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online
+
+## Installation
+npm install
+npx nodemon
+
+## GIF
+![](Budget Tracker.gif)
