@@ -22,5 +22,3 @@ THEN that will be shown on the page, and added to their transaction history when
 npm install
 npx nodemon
 
-## GIF
-![](Budget Tracker.gif)
